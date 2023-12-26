@@ -324,7 +324,7 @@ layout: false
 
 ### Wide image
 
-![A wide image with a diagram of branching in git.](https://docs.github.com/assets/images/help/repository/branching.png)
+![A wide image with a diagram of branching in git.](https://drive.google.com/uc?export-view&id=1dYm15wCtBP3IfDqwg7c4XTD_KsQdUcuI)
 
 .footnote[Wide images scale to 100% slide width]
 
