@@ -1,9 +1,9 @@
 ---
-title: "Presentation Ninja"
-subtitle: "&#x2694;&#xFE0F; xaringan +<br/>&#x1F60E; xaringanthemer"  
+title: "Glueing it to Get In Touch"
+subtitle: "A land value capture idea"  
 author: 
-  - "Yihui Xie"
-  - "Garrick Aden-Buie"
+  - "Kay Seetal"
+  - "Bertrand Bhikarry"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
@@ -38,6 +38,111 @@ style_duo_accent(
 )
 ```
 
+
+
+
+## Assumption 1
+
+.left-column[
+##  ... of 3
+]
+
+.right-column[
+**You want a Tobago holiday home**   
+
+![](https://drive.google.com/uc?export=view&id=1ehyhB9WclXbVq9T8qTbObn1Wt-NwhV7k)
+
+]
+
+---
+##  Assumption 2
+
+.left-column[
+##  ... of 3
+]
+.right-column[
+
+![](https://drive.google.com/uc?export=view&id=1HA5XXfNfQ998gl9PTNszWk1aiQTXdu7v)
+
+**You want it cheap**
+
+]
+
+---
+## Assumption 3
+
+.left-column[
+## ... of 3
+]
+.right-column[
+
+![](https://drive.google.com/uc?export=view&id=1cxNGR_8W8t7Za8DeUx1Ef42Soq3qbS-6)
+
+**You got Cash**
+]
+---
+class: center top
+
+#  If
+
+>... If two (2) of the above assumptions apply then what follows may work for you. 
+
+---
+## This is an invitation
+
+  - To be One of Six family members who together will construct 6 two-bedroom condo style units in Tobago
+  
+.footnote[Three are Asalma, Sabriyah and Saiyd (Kay's kids)]
+---
+## More
+
+.left-column[
+**ABOUT THE LAND**
+]
+
+.right-column[Part of the Looking Out Stables plot. The land under the units are leasehold TO THE UNITS (for 20 years)]
+
+---
+## Still more
+
+.left-column[**ABOUT OWNERSHIP**]
+
+.right-column[The six punters will each become directors in a registered company (*see footer*) WHOSE BUSINESS IT IS TO OWN THE SIX UNITS. This directorship of this company is exclusive to UNIT buyers.  
+
+Property Management including maintenance will fall to Essentially Tobago Limited.
+]
+
+.footnote[*Get In Touch Co. obtains its lease from the owner Essentially Tobago Ltd*]
+---
+## The cost
+
+.left-column[Unit design]
+
+.right-column[Will influence/determine end price. I'd recommend identical units. Work with a round figure of $950. per sq foot for a turnkey unit]
+
+---
+## More on costs
+
+  - Physical Land preparation (incl paving)
+  - Water and Sewerage (drainage etc)
+  - Electrical
+  - Architect fees (if)
+  - Legal 
+      + Conveyancing
+      + Isolating the parcel (survey and Deed)
+  - Insurance (if)
+  - Security
+  
+---
+
+# The Other bigger idea
+
+
+To develop a team who can 
+
+
+
+---
 ## Typography
 
 Text can be **bold**, _italic_, ~~strikethrough~~, or `inline code`.
@@ -324,7 +429,7 @@ layout: false
 
 ### Wide image
 
-![A wide image with a diagram of branching in git.](https://drive.google.com/uc?export-view&id=1dYm15wCtBP3IfDqwg7c4XTD_KsQdUcuI)
+![A wide image with a diagram of branching in git.](https://drive.google.com/uc?export=view&id=1dYm15wCtBP3IfDqwg7c4XTD_KsQdUcuI)
 
 .footnote[Wide images scale to 100% slide width]
 
